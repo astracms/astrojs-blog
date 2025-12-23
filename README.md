@@ -2,6 +2,8 @@
 
 [![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build/themes/details/skyscript)
 [![CI](https://github.com/astracms/skyscript/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/astracms/skyscript/actions/workflows/ci.yml)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fastracms%2Fskyscript&env=ASTRACMS_API_KEY&envDescription=Add%20your%20ASTRACMS_API_KEY%20%20from%20astracms.dev&envLink=https%3A%2F%2Fapp.astracms.dev)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com)
 
 **SkyScript** is a modern, content-first blog starter built with **Astro v5**, **Tailwind CSS v4**, and **AstraCMS**. Designed for SEO optimization and responsiveness across all devices, it's perfect for personal blogs, company blogs, and content-focused websites.
 
