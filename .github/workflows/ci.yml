@@ -33,7 +33,7 @@ jobs:
 
       - name: Type check and build
         env:
-          ASTRACMS_API_KEY: ${{ env.ASTRACMS_API_KEY }}
+          ASTRACMS_API_KEY: ${{ vars.ASTRACMS_API_KEY }}
         run: pnpm run build
 
       - name: Upload build artifacts
